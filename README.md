@@ -5,7 +5,10 @@
 <h3 align="left">Passionate AI and Data Enthusiast | Aspiring MLOps Engineer from Viet Nam.<br><br>- 🌱 I’m currently learning **Python, CSS, Golang, C#...**<br><br>- 💬 Ask me about **machine learning and deep learning, or everything about AI and backend.**<br><br>- 📫 How to reach me **dithienan03@gmail.com**<br><br>- 📄 Know about my experiences (https://drive.google.com/drive/u/0/folders/1JRIUtaWRHcM_CAvJDKy75JCp7vjtOXYM)</h3>
 
 ###
-
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=dinhthienan33&theme=dracula&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dinhthienan33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhthienan33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
