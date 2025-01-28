@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Passionate AI and Data Enthusiast | Aspiring MLOps Engineer from Viet Nam.<br><br>- 🌱 I’m currently learning **Python, CSS, Golang, C#...**<br><br>- 💬 Ask me about **machine learning and deep learning, or everything about AI and backend.**<br><br>- 📫 How to reach me **dithienan03@gmail.com**<br><br>- 📄 Know about my experiences (https://drive.google.com/drive/u/0/folders/1JRIUtaWRHcM_CAvJDKy75JCp7vjtOXYM)</h3>
+<h3 align="left">Passionate AI and Data Enthusiast | Aspiring MLOps Engineer from Viet Nam.<br><br>- 🌱 I’m currently learning Python, CSS, Golang, C#...<br><br>- 💬 Ask me about machine learning and deep learning, or everything about AI and backend.<br><br>- 📫 How to reach me dithienan03@gmail.com<br><br>- 📄 Know about my experiences (https://drive.google.com/drive/u/0/folders/1JRIUtaWRHcM_CAvJDKy75JCp7vjtOXYM)</h3>
 
 ###
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
