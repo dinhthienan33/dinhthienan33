@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Đinh Thiên Ân and I'm a CS Student from UIT</h2>
+<h2 align="left">Hi 👋! My name is  Đinh Thiên Ân and I'm a CS Student from UIT (VNU-HCM University of Information Technology)</h2>
 
 ###
 
