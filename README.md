@@ -1,17 +1,22 @@
-<h2 align="left">Hi 👋! My name is  Đinh Thiên Ân and I'm a CS Student from UIT (VNU-HCM University of Information Technology)</h2>
+## Hi, I'm Đinh Thiên Ân
+
+I'm a Computer Science student at UIT (VNU-HCM University of Information Technology) with a strong passion for all things AI and Data.
+
+### A little more about me
+
+* I’m currently focused on learning Python, CSS, Golang, and C#.
+* I'm always happy to chat about machine learning, deep learning, or anything related to AI and Software Engineering.
+* The best way to reach me is at: **dithienan03@gmail.com**
+* You can check out my experience and projects here: **https://drive.google.com/drive/u/0/folders/1JRIUtaWRHcM_CAvJDKy75JCp7vjtOXYM**
 
 ###
-
-<h3 align="left">Passionate AI and Data <br><br>- 🌱 I’m currently learning Python, CSS, Golang, C#...<br><br>- 💬 Ask me about machine learning and deep learning, or everything about AI Engineer and Software Engineer<br><br>- 📫 How to reach me dithienan03@gmail.com<br><br>- 📄 Know about my experiences: https://drive.google.com/drive/u/0/folders/1JRIUtaWRHcM_CAvJDKy75JCp7vjtOXYM</h3>
-
-###
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=dinhthienan33&theme=dracula&column=10&theme=gruvbox&no-frame=true"/>
 </a>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dinhthienan33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dinhthienan33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
