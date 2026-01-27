@@ -1,6 +1,6 @@
 ## Hi, I'm Đinh Thiên Ân
 
-I'm a Computer Science student at UIT (VNU-HCM University of Information Technology) with a strong passion for all things AI and Data.
+
 
 ### A little more about me
 
